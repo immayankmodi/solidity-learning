@@ -4,7 +4,7 @@ pragma solidity >=0.7.0;
 
 // memory & storage
 
-contract MemoryStorate {
+contract MemoryStorage {
     uint internal favoriteNumber = 3;
     string internal greet = "Hello, world!"; 
     

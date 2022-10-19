@@ -6,7 +6,7 @@ pragma solidity >=0.7.0;
 //assert ==> it'll consume overall gas --> for internal errors mainly used
 //revert ==> old method, return the remaining gas, complex if.. else conditions also used
 
-contract PayableTransaction {
+contract ErrorsSolidity {
     address public owner;
     uint public number;
 
